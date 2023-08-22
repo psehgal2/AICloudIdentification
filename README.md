@@ -1,4 +1,3 @@
-Work completed by Purvi Sehgal in September 2022 under mentorship of Dr. David Thompson
 
 Instructions:
 
